@@ -1,4 +1,4 @@
-#typing_speed_test 
+# typing_speed_test 
 
 we will create a Typing Speed Test Game using Python and Tkinter. This game will help users check how fast they can type in Words Per Minute (WPM) and also measure their typing accuracy. Whether you’re new to Python or have some experience, this project is a fun way to practice coding while improving your typing speed!
 Typing is an important skill for everyone who uses computers, whether it’s for coding, writing, or everyday communication. In this article, we will show you how to make a Typing Speed Test Game that calculates your typing speed (WPM) and accuracy based on a text.
