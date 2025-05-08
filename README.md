@@ -23,3 +23,17 @@ Follow these steps to run the Typing Speed Test Game on your system:
 python typing_speed_test.py
          
 5. The game window will open, and you can start typing the displayed text to test your speed and accuracy.
+
+OVERLOOK OF OUTPUT:
+![Screenshot (10)](https://github.com/user-attachments/assets/5e319775-585c-4f5e-a5e9-4e2831fdc65c)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/ded7feec-c89f-4134-a969-7e400e71a52a)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/febf02e9-5e24-4f5e-b45d-815d203b3f03)
+
+
+
+
+
+
+
